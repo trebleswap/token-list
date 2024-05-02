@@ -1,0 +1,29 @@
+{
+  "name": "Trebleswap",
+  "logoURI": "https://raw.githubusercontent.com/trebleswap/token-list/master/assets/token-list-interface.png",
+  "keywords": ["defi"],
+  "timestamp": "2024-05-01T10:37:00.000+00:00",
+  "tokens": [
+    {
+      "chainId": 84532,
+      "address": "0x10253594A832f967994b44f33411940533302ACb",
+      "name": "Wrapped Ether",
+      "symbol": "WETH",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/trebleswap/token-list/master/assets/asset_WETH.svg"
+    },
+    {
+      "chainId": 84532,
+      "address": "0x49BA666002c380ecFF4C9568e94df0F049682559",
+      "name": "My Token",
+      "symbol": "MTK",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/trebleswap/token-list/master/assets/asset_MTK.svg"
+    }
+  ],
+  "version": {
+    "major": 1,
+    "minor": 0,
+    "patch": 0
+  }
+}
