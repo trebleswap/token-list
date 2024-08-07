@@ -2,8 +2,32 @@
   "name": "Trebleswap",
   "logoURI": "https://raw.githubusercontent.com/trebleswap/token-list/master/assets/token-list-interface.png",
   "keywords": ["defi"],
-  "timestamp": "2024-05-01T10:37:00.000+00:00",
+  "timestamp": "2024-08-07T12:30:00.000+00:00",
   "tokens": [
+    {
+      "chainId": 8453,
+      "address": "0x4200000000000000000000000000000000000006",
+      "name": "Wrapped Ether",
+      "symbol": "WETH",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/trebleswap/token-list/master/assets/asset_WETH.svg"
+    },
+    {
+      "chainId": 8453,
+      "address": "0x2640c70b17C5F14141e1316Fd1C1303671175075",
+      "name": "Treble Token",
+      "symbol": "TREB",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/trebleswap/token-list/master/assets/asset_TREB.svg"
+    },
+    {
+      "chainId": 8453,
+      "address": "0xb1c4c9B417181AB7386e6Dd98BAE81F9152a8E6b",
+      "name": "Treble xToken",
+      "symbol": "xTREB",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/trebleswap/token-list/master/assets/asset_XTREB.svg"
+    },
     {
       "chainId": 84532,
       "address": "0x10253594A832f967994b44f33411940533302ACb",
@@ -23,7 +47,7 @@
   ],
   "version": {
     "major": 1,
-    "minor": 0,
+    "minor": 1,
     "patch": 0
   }
 }
