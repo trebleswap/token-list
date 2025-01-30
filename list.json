@@ -2,7 +2,7 @@
   "name": "Trebleswap",
   "logoURI": "https://raw.githubusercontent.com/trebleswap/token-list/master/assets/token-list-interface.png",
   "keywords": ["defi"],
-  "timestamp": "2024-08-07T12:30:00.000+00:00",
+  "timestamp": "2025-10-30T17:50:00.000+00:00",
   "tokens": [
     {
       "chainId": 8453,
@@ -47,7 +47,7 @@
   ],
   "version": {
     "major": 1,
-    "minor": 1,
+    "minor": 2,
     "patch": 0
   }
 }
