@@ -14,7 +14,7 @@
     },
     {
       "chainId": 8453,
-      "address": "0x2640c70b17C5F14141e1316Fd1C1303671175075",
+      "address": "0xb96450dcb16e4a30b999cb5f4087bae9c0ffac4e",
       "name": "Treble Token",
       "symbol": "TREB",
       "decimals": 18,
@@ -22,11 +22,11 @@
     },
     {
       "chainId": 8453,
-      "address": "0xb1c4c9B417181AB7386e6Dd98BAE81F9152a8E6b",
-      "name": "Treble xToken",
-      "symbol": "xTREB",
+      "address": "0x833589fCD6eDb6E08f4c7C32D4f71b54bdA02913",
+      "name": "USD Coin",
+      "symbol": "USDC",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/trebleswap/token-list/master/assets/asset_XTREB.svg"
+      "logoURI": "https://raw.githubusercontent.com/trebleswap/token-list/master/assets/asset_USDC.svg"
     },
     {
       "chainId": 84532,
