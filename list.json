@@ -25,7 +25,7 @@
       "address": "0x833589fCD6eDb6E08f4c7C32D4f71b54bdA02913",
       "name": "USD Coin",
       "symbol": "USDC",
-      "decimals": 18,
+      "decimals": 6,
       "logoURI": "https://raw.githubusercontent.com/trebleswap/token-list/master/assets/asset_USDC.svg"
     },
     {
