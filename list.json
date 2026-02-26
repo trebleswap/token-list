@@ -14,8 +14,8 @@
     },
     {
       "chainId": 8453,
-      "address": "0xb96450dcb16e4a30b999cb5f4087bae9c0ffac4e",
-      "name": "Treble Token",
+      "address": "0xdd2fc771ddab2b787aedfd100a67d8a4754a380c",
+      "name": "Treble",
       "symbol": "TREB",
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/trebleswap/token-list/master/assets/asset_TREB.svg"
